@@ -1,1 +1,2 @@
 # sudoku
+Solve sudoku puzzles
